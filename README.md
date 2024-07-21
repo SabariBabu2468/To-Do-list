@@ -1,7 +1,7 @@
 # To-Do-list
 ## Description of the To-Do List Application
 
-This To-Do List application is a user-friendly tool designed to help you manage your tasks efficiently. Built with HTML, CSS, and JavaScript, it features a modern and attractive design, making task management a pleasant experience.
+This To-Do List application is a user-friendly tool designed to help users manage their tasks efficiently. Built with HTML, CSS, and JavaScript, it features a modern and attractive design, making task management a pleasant experience.
 
 ### Key Features:
 
